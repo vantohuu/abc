@@ -1,1 +1,1 @@
-console.log(1000)
+console.log(10)
